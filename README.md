@@ -1,4 +1,4 @@
-Hi, I’m Ryan and I'm a Data Science student at Purdue University.
+Hi, I’m Ryan and I'm a Computer Science / Data Science student at Purdue University.
 
 <!---
 ryannewman280/ryannewman280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
